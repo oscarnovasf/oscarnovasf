@@ -3,8 +3,8 @@ Hola, soy [Óscar Novás][mi-web] 👋
 
 [![](https://visitcount.itsvg.in/api?id=oscarnovasf&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<a href=[mi-web]>
-  <img src="https://res.cloudinary.com/onovas/image/upload/v1681459250/GitHub/Profile/logo-grande_kjhq3e.png" style="background:#ffffff !important">
+<a href=[mi-web] style="background:#fff;">
+  <img src="https://res.cloudinary.com/onovas/image/upload/v1681459250/GitHub/Profile/logo-grande_kjhq3e.png" style="background:#fff;">
 </a>
 
 <div align="center" dir="auto">
