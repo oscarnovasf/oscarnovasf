@@ -9,33 +9,39 @@
    ****************************************************************************/
 
   "recommendations": [
-    "adam-bender.commit-message-editor",
+    "adrianwilczynski.terminal-commands",
     "alefragnani.bookmarks",
     "alefragnani.project-manager",
     "andrewdavidblum.drupal-smart-snippets",
-    "bhughes339.replacerules",
+    "antfu.smart-clicks",
+    "ardisaurus.gitflow-actions-sidebar",
     "bierner.markdown-preview-github-styles",
     "bmewburn.vscode-intelephense-client",
+    "calsmurf2904.vscode-phpstan",
     "chrisdias.vscode-opennewinstance",
+    "cipchk.cssrem",
     "cnshenj.vscode-task-manager",
     "codezombiech.gitignore",
+    "DEVSENSE.composer-php-vscode",
     "dmitrydorofeev.empty-indent",
+    "donebd.rest-client-api",
     "donjayamanne.jquerysnippets",
     "ecmel.vscode-html-css",
     "ecodes.vscode-phpmd",
     "exelord.git-commits",
     "formulahendry.code-runner",
+    "formulahendry.auto-rename-tag",
     "glenn2223.live-sass",
     "gruntfuggly.activitusbar",
     "gruntfuggly.todo-tree",
     "ionutvmi.path-autocomplete",
     "irongeek.vscode-env",
-    "jixabon.lando-ui",
     "jpsnee.vscode-editor-macros",
     "Kelvin.vscode-sshfs",
     "marcostazi.vs-code-drupal",
     "mblode.twig-language-2",
     "mehedidracula.php-namespace-resolver",
+    "mhutchie.git-graph",
     "mrorz.language-gettext",
     "ms-ceintl.vscode-language-pack-es",
     "ms-vscode-remote.remote-ssh",
@@ -45,8 +51,6 @@
     "onlyutkarsh.git-config-user-profiles",
     "persoderlind.vscode-phpcbf",
     "pkief.material-icon-theme",
-    "pranaygp.vscode-css-peek",
-    "rangav.vscode-thunder-client",
     "recca0120.vscode-phpunit",
     "ritwickdey.liveserver",
     "runarsf.platform-settings",
@@ -57,7 +61,6 @@
     "streetsidesoftware.code-spell-checker-spanish",
     "streetsidesoftware.code-spell-checker",
     "thekalinga.bootstrap4-vscode",
-    "waderyan.gitblame",
     "xdebug.php-debug",
     "zepich.twig-braces-helper"
   ],
@@ -69,24 +72,32 @@
    *   aunque no las considero imprescindibles para trabajar con Drupal.
    * - Estas extensiones están, en su mayoría, con su configuración ideal para
    *   trabajar con ellas en el archivo settings.json.
+   * - Están situadas en bloques y ordenados según la relevancia que yo le doy.
    ****************************************************************************/
   "unwantedRecommendations": [
-    "brapifra.phpserver",
-    "dotjoshjohnson.xml",
-    "github.vscode-pull-request-github",
-    "gitlab.gitlab-workflow",
-    "hediet.vscode-drawio",
-    "janisdd.vscode-edit-csv",
-    "jixabon.lando-ui",
-    "Maarti.jenkins-doc",
-    "mechatroner.rainbow-csv",
-    "mrmlnc.vscode-apache",
+
+    "GitHub.copilot",
+    "BenjaminBenais.copilot-theme",
+
+    "timonwong.shellcheck",
+
     "ms-azuretools.vscode-docker",
-    "ms-vscode-remote.remote-containers",
-    "mtxr.sqltools",
+    "jixabon.lando-ui",
+    "brapifra.phpserver",
+    "hediet.vscode-drawio",
+    "mechatroner.rainbow-csv",
+    "janisdd.vscode-edit-csv",
     "nickdemayo.vscode-json-editor",
     "oliversturm.fix-json",
-    "timonwong.shellcheck",
+    "SimonSiefke.svg-preview",
+    "soerenuhrbach.vscode-deepl",
+    "dotjoshjohnson.xml",
+    "mrmlnc.vscode-apache",
+
+    "ms-vscode-remote.remote-containers",
+    "maarti.jenkins-doc",
+    "gitlab.gitlab-workflow",
+    "github.vscode-pull-request-github",
     "wakatime.vscode-wakatime"
   ]
 }
