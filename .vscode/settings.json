@@ -287,7 +287,7 @@
   "files.encoding": "utf8",
   "files.eol": "\n",
   "files.exclude": {
-    ".github/": true,
+    ".github/": false,
     ".tmp-doc/": true,
     "node_modules/": true,
     "package-lock.json": true,
