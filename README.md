@@ -22,12 +22,13 @@ Me gusta compartir conocimiento con la comunidad, a la que intento devolver part
 
 <p align="center">
   <a href="https://github.com/oscarnovasf">
-    <img src="https://github-profile-trophy.vercel.app/?username=oscarnovasf&theme=onedark&column=-1" style="width:100%;" alt="oscarnovasf" />
+    <img src="https://github-profile-trophy.vercel.app/?username=oscarnovasf&theme=aura&column=-1&margin-w=3&no-frame=true" style="width:100%;" alt="oscarnovasf" />
     <br>&nbsp;<br>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oscarnovasf&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=es"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarnovasf&layout=compact&langs_count=10&theme=algolia&locale=es"/>
     <br>&nbsp;<br>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=oscarnovasf&theme=dark&hide_border=false"/>
+    <!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=oscarnovasf&theme=dark&hide_border=false"/> -->
+    <img height="180em" src="https://streak-stats.demolab.com?user=oscarnovasf&theme=dark&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" />
     <br>
 
   </a>
