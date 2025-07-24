@@ -24,8 +24,8 @@ Me gusta compartir conocimiento con la comunidad, a la que intento devolver part
   <a href="https://github.com/oscarnovasf">
     <img src="https://github-profile-trophy.vercel.app/?username=oscarnovasf&theme=onedark&column=-1" style="width:100%;" alt="oscarnovasf" />
     <br>&nbsp;<br>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=oscarnovasf&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oscarnovasf&layout=compact&langs_count=10&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=oscarnovasf&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locales=es"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oscarnovasf&layout=compact&langs_count=10&theme=algolia&locales=es"/>
     <br>&nbsp;<br>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=oscarnovasf&theme=dark&hide_border=false"/>
     <br>
