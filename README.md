@@ -16,7 +16,7 @@ Soy miembro de la [Asociación Española de Drupal](https://asociaciondrupal.es/
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscarnovasf/) [![Drupal.org](https://img.shields.io/badge/Drupal.org-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white)](https://www.drupal.org/u/oscarnovasf)
 
-## Stack tecnológico
+## Stack Tecnológico
 
 #### Lenguajes
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -46,7 +46,8 @@ Soy miembro de la [Asociación Española de Drupal](https://asociaciondrupal.es/
 ## ⚙️ &nbsp;&nbsp;&nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/oscarnovasf">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=oscarnovasf&theme=react-dark&area=true" style="width:100%;" alt="Activity Graph" />
+    <br>&nbsp;<br>
     <img src="https://github-trophies.vercel.app/?username=oscarnovasf&theme=aura&column=-1&margin-w=3&no-frame=true" style="width:100%;" alt="oscarnovasf" />
     <br>&nbsp;<br>
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oscarnovasf&theme=algolia" alt="Stats" />
@@ -54,9 +55,6 @@ Soy miembro de la [Asociación Española de Drupal](https://asociaciondrupal.es/
     <br>&nbsp;<br>
     <img height="180em" src="https://streak-stats.demolab.com?user=oscarnovasf&theme=dark&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" />
     <br>&nbsp;<br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=oscarnovasf&theme=react-dark&area=true" style="width:100%;" alt="Activity Graph" />
-    <br>
-  </a>
 </p>
 
 ## 💰 &nbsp;&nbsp;&nbsp;Colabora con mis proyectos
