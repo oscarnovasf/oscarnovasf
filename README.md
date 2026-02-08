@@ -48,8 +48,6 @@ Soy miembro de la [Asociación Española de Drupal](https://asociaciondrupal.es/
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=oscarnovasf&theme=react-dark&area=true" style="width:100%;" alt="Activity Graph" />
     <br>&nbsp;<br>
-    <img src="https://github-trophies.vercel.app/?username=oscarnovasf&theme=aura&column=-1&margin-w=3&no-frame=true" style="width:100%;" alt="oscarnovasf" />
-    <br>&nbsp;<br>
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oscarnovasf&theme=algolia" alt="Stats" />
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oscarnovasf&theme=algolia" alt="Top Langs" />
     <br>&nbsp;<br>
